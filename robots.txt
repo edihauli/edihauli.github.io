@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edihauli.github.io/KiY/sitemap_index.txt
+Sitemap: https://edihauli.github.io/QEk/sitemap_index.txt
+Sitemap: https://edihauli.github.io/UrE/sitemap_index.txt
+Sitemap: https://edihauli.github.io/deP/sitemap_index.txt
